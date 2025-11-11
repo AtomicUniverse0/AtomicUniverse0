@@ -1,7 +1,5 @@
 ## Hi there 👋
-- I am pursuing a master's degree in computer science.
-- I am highly interested in any system-related topics, especially: machine learning systems, distributed systems, and operating systems.
-- I aspire to grow into a true tech geek！
+
 <!--
 **AtomicUniverse0/AtomicUniverse0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
